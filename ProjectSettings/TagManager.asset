@@ -2,8 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - EnemyFire
+  - Ground
+  - Goal
+  - Goal1
+  - Goal2
   layers:
   - Default
   - TransparentFX
@@ -38,6 +43,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: fondo
+    uniqueID: 3500850301
+    locked: 0
+  - name: fondoreal
+    uniqueID: 3494787569
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  m_RenderingLayers:
+  - Default

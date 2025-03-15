@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d7939afa85c0606429405566dd4db941
+guid: 56703022897e6744ea5c37a0f597efa0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5014184027176130527
-    second: scarecrow_0
+      213: -3850869680603446248
+    second: scarecrow (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: scarecrow_0
+      name: scarecrow (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 626
-        height: 626
+        x: 129
+        y: 89
+        width: 244
+        height: 323
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd755427ec5f59540800000000000000
-      internalID: 5014184027176130527
+      spriteID: 8144f43ad66fe8ac0800000000000000
+      internalID: -3850869680603446248
       vertices: []
       indices: 
       edges: []
